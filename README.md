@@ -4,7 +4,7 @@
 
 This project is a command-line utility that creates secure passwords based on user input. It allows users to specify the desired length, and the program randomly mixes letters, numbers, and symbols to ensure high entropy (randomness).
 
-I built this project to practice Python fundamentals, specifically string manipulation and utilizing built-in libraries.
+Use this project to practice Python fundamentals, specifically string manipulation and utilizing built-in libraries.
 
 ## Features
 - **Customizable Length:**: User can input the exact number of characters.
