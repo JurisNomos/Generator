@@ -7,10 +7,10 @@ This project is a command-line utility that creates secure passwords based on us
 Use this project to practice Python fundamentals, specifically string manipulation and utilizing built-in libraries.
 
 ## Features
-- **Customizable Length:**: User can input the exact number of characters.
-- **Secure Randomization:**: Uses Python's `random` module for unpredictable results.
-- **Instant Output:**: Generates and displays the password immediately.
-- **Error Handling:**: Ensures the user enters a valid number for length.
+- Customizable Length:: User can input the exact number of characters.
+- Secure Randomization: Uses Python's `random` module for unpredictable results.
+- Instant Output: Generates and displays the password immediately.
+- Error Handling: Ensures the user enters a valid number for length.
 
 ## Run
 1. Ensure you have Python installed.
